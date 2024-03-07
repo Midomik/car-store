@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar_store=self.webpackChunkcar_store||[]).push([[48],{48:(e,s,c)=>{c.r(s),c.d(s,{default:()=>a});c(43);var r=c(579);const a=()=>(0,r.jsx)("div",{children:"WelcomePage"})}}]);
+//# sourceMappingURL=48.2b3ae8ff.chunk.js.map
