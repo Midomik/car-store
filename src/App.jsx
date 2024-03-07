@@ -8,7 +8,7 @@ const FavoritePage = lazy(() => import("./pages/FavoritePage/FavoritePage"));
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<WelcomePage />} />
+      <Route exact path="/" element={<WelcomePage />} />
       <Route path="/catalog" element={<CatalogPage />} />
       <Route path="/favorites" element={<FavoritePage />} />
 
