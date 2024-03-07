@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/car-store/static/css/main.4d7a0c17.css",
-    "main.js": "/car-store/static/js/main.47b51d72.js",
+    "main.js": "/car-store/static/js/main.7e1f9194.js",
     "static/js/48.2b3ae8ff.chunk.js": "/car-store/static/js/48.2b3ae8ff.chunk.js",
     "static/css/541.d109bb4b.chunk.css": "/car-store/static/css/541.d109bb4b.chunk.css",
     "static/js/541.8a3e1341.chunk.js": "/car-store/static/js/541.8a3e1341.chunk.js",
@@ -13,7 +13,7 @@
     "static/media/Manrope-Regular.ttf": "/car-store/static/media/Manrope-Regular.a9b9e09fe6b69741f316.ttf",
     "index.html": "/car-store/index.html",
     "main.4d7a0c17.css.map": "/car-store/static/css/main.4d7a0c17.css.map",
-    "main.47b51d72.js.map": "/car-store/static/js/main.47b51d72.js.map",
+    "main.7e1f9194.js.map": "/car-store/static/js/main.7e1f9194.js.map",
     "48.2b3ae8ff.chunk.js.map": "/car-store/static/js/48.2b3ae8ff.chunk.js.map",
     "541.d109bb4b.chunk.css.map": "/car-store/static/css/541.d109bb4b.chunk.css.map",
     "541.8a3e1341.chunk.js.map": "/car-store/static/js/541.8a3e1341.chunk.js.map",
@@ -22,6 +22,6 @@
   },
   "entrypoints": [
     "static/css/main.4d7a0c17.css",
-    "static/js/main.47b51d72.js"
+    "static/js/main.7e1f9194.js"
   ]
 }
